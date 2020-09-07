@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //biblioteca padrão
 #include <clocale> // setlocale
 #include <cstdlib> // system
 #include <string> // Textos em geral
