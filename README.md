@@ -1,0 +1,5 @@
+Uma empresa construiu uma máquina capaz de automatizar a venda de itens alimentícios básicos, ou seja, o consumidor seleciona o produto desejado, insere o dinheiro na máquina e recebe o produto e o troco se houver. O programa de computador deve simular o funcionamento da máquina em dois modos, a saber:
+
+(a) Modo Usuário: onde os produtos armazenados na máquina são listados com seus respectivos valores sendo que o usuário pode escolher qual produto quer comprar, e em seguida informa o valor inserido na máquina. Após o processamento, caso o produto esteja disponível, o usuário retira o produto, bem como seu troco que é informado ao usuário.
+
+(b) Modo Administrador: onde é possível gerenciar a máquina repondo produtos faltantes, listar um inventário de produtos e suas respectivas quantidades e listar o quanto a máquina já faturou e ainda pode faturar.
